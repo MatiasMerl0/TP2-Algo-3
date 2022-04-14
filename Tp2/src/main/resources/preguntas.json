@@ -1,0 +1,154 @@
+{"preguntas":[
+
+  {
+    "tipoPregunta": "gchoice",
+    "contenido": "Arrastrar a los grupos correspondientes.",
+    "grupos":[
+      {
+        "nombre": "Nombre mujeres",
+        "respuestas": [
+          {"contenido": "Cecilia"},
+          {"contenido": "Ruperta"},
+          {"contenido": "Alejandra"}
+        ]
+      },
+      {
+        "nombre": "Nombre hombres",
+        "respuestas":[
+          {"contenido": "Manolo"},
+          {"contenido": "Roberto"},
+          {"contenido": "Asvaldo"}
+        ]
+      }
+    ]
+  },
+
+  {
+    "tipoPregunta": "vof",
+    "contenido": "¿Es este Kahoot un Tp de Algoritmos y Programacion 3?",
+    "respuestas": [{
+      "tipoRespuesta": "Correcto",
+      "contenido": "Verdadero"
+    },
+      {
+        "tipoRespuesta": "Incorrecto",
+        "contenido": "Falso"
+      }
+    ],
+    "tipoPuntaje": "clasico"
+  },
+
+
+  {
+    "tipoPregunta": "vof",
+    "contenido": "¿2 + 2 = 4?",
+    "respuestas": [{
+      "tipoRespuesta": "Correcto",
+      "contenido": "Verdadero"
+    },
+      {
+        "tipoRespuesta": "Incorrecto",
+        "contenido": "Falso"
+      }
+    ],
+    "tipoPuntaje": "penalizacion"
+  },
+
+
+  {
+    "tipoPregunta": "mchoice",
+    "contenido": "Elegir los numeros pares.",
+    "respuestas": [{
+      "tipoRespuesta": "Correcto",
+      "contenido": "2"
+    },
+      {
+        "tipoRespuesta": "Incorrecto",
+        "contenido": "5"
+      },
+      {
+        "tipoRespuesta": "Correcto",
+        "contenido": "6"
+      }
+    ],
+    "tipoPuntaje": "parcial"
+  },
+
+
+  {
+    "tipoPregunta": "mchoice",
+    "contenido": "¿Quienes son nuestros profesores de Algoritmos 3?",
+    "respuestas": [{
+      "tipoRespuesta": "Correcto",
+      "contenido": "Sebastián"
+    },
+      {
+        "tipoRespuesta": "Correcto",
+        "contenido": "Eugenio"
+      },
+      {
+        "tipoRespuesta": "Incorrecto",
+        "contenido": "Mariano Mendez"
+      },
+      {
+        "tipoRespuesta": "Incorrecto",
+        "contenido": "Fontela"
+      }
+    ],
+    "tipoPuntaje": "clasico"
+  },
+
+
+  {
+    "tipoPregunta": "mchoice",
+    "contenido": "¿Cuales de los siguientes tenistas son argentinos?",
+    "respuestas": [
+      {
+      "tipoRespuesta": "Correcto",
+      "contenido": "Del Potro"
+      },
+      {
+        "tipoRespuesta": "Incorrecto",
+        "contenido": "Djokovic"
+      },
+      {
+        "tipoRespuesta": "Incorrecto",
+        "contenido": "Nadal"
+      },
+      {
+        "tipoRespuesta": "Incorrecto",
+        "contenido": "Messi"
+      },
+      {
+        "tipoRespuesta": "Correcto",
+        "contenido": "Berlocq"
+      }
+    ],
+    "tipoPuntaje": "penalizacion"
+  },
+
+
+  {
+    "tipoPregunta": "ochoice",
+    "contenido": "Ordenar de menor a mayor.",
+    "respuestas": [{
+      "tipoRespuesta": "Ordered",
+      "contenido": "2",
+      "posicion": 1
+    },
+      {
+        "tipoRespuesta": "Ordered",
+        "contenido": "1",
+        "posicion": 0
+      },
+      {
+        "tipoRespuesta": "Ordered",
+        "contenido": "5",
+        "posicion": 2
+      }
+    ],
+    "tipoPuntaje": "clasico"
+  }
+
+]
+}
